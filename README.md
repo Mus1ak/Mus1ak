@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-| ![loop-alien-abduction]([https://thumbs.gfycat.com/AggravatingQuaintBittern-max-1mb.gif]) | ![](https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}) |
+| ![loop-alien-abduction](https://thumbs.gfycat.com/AggravatingQuaintBittern-max-1mb.gif) | ![](https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}) |
 --------|---------
 |Md. Mustak Chudhary|Student at VIT Bhopal |
 
