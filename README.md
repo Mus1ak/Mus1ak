@@ -7,7 +7,7 @@
 
 
 Music is ♡
-<p align="center">
+<p align="left">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o27432rmwtps6w6w7r4h2rsjou">
 </p>
 
