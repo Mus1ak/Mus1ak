@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6f/6c/3f/6f6c3f510aa7551eac058372228e0ea8.jpg" width="350" title="hover text">
+  <img src="https://i.pinimg.com/originals/6f/6c/3f/6f6c3f510aa7551eac058372228e0ea8.jpg" width="350" alt="accessibility text">
+</p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak})
