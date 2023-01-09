@@ -1,8 +1,6 @@
 #### Hi there 👋
 
-<p align="center">
-  <img src="(https://media.tenor.com/10Prt1iRbv8AAAAj/loop-alien-abduction.gif)" title="hover text">
-</p>
+![loop-alien-abduction](https://user-images.githubusercontent.com/109837813/211294982-4431d66b-ed0f-46f9-8419-df14d0892952.gif)
 
 ---
 
