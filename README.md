@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <style>
     .hero{
          display :flex;
@@ -21,8 +22,8 @@
 </style>
 <div class="hero">
     <h3>Hello Welcome to Mustak's Profile 👋</h3>
-    
 </div>
+
 <!-- <div class="logos">
     <p><a href="https://www.linkedin.com/in/mustbemustak/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Markdown Logo"></a> 
 <a href="https://soundcloud.com/sky9nine"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&amp;logo=soundcloud&amp;logoColor=white" alt="Markdown Logo"></a></p>
