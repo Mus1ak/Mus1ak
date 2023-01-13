@@ -1,27 +1,4 @@
 
-<head>
-    <style>
-    .hero{
-         display :flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .cat{
-        height: 40vh;
-        /* background: red; */
-        
-        display :flex;
-        justify-content: center;
-    }
-    .cat img{
-        /* width: 100vh; */
-    }
-    .logos{
-        display:flex;
-        justify-content:center;
-    }
-</style>
-</head>
 <div class="hero">
     <h3>Hello Welcome to Mustak's Profile 👋</h3>
 </div>
