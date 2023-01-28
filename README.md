@@ -19,4 +19,4 @@ Music is ♡
 </p>
 
 
-![Discord Banner 2](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner2)
+![Discord Banner 2](https://discordapp.com/api/guilds/[875659000585281538]/widget.png?style=banner2)
