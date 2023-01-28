@@ -18,5 +18,3 @@ Music is ♡
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o27432rmwtps6w6w7r4h2rsjou">
 </p>
 
-
-![Discord Banner 2](https://discordapp.com/api/guilds/[875659000585281538]/widget.png?style=banner)
