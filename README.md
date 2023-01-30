@@ -19,8 +19,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+Guys+!+I+am+Mustak;I+am+a+Music+Producer;With+over+100k+Streams+in+spotify;I'm+also+interested+in+front-end+dev;I+enjoy+3D+modelling+as+well" alt="Typing SVG" /></a>
 
-Music is ♡
+<!-- Music is ♡
 <p >
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o27432rmwtps6w6w7r4h2rsjou">
 </p>
-
+ -->
