@@ -13,7 +13,7 @@
 
 ###### Stats Check
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}&theme=merko">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}&theme=onedark">
 </div>
 
 
