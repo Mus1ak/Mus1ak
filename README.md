@@ -19,5 +19,5 @@ Music is ♡
 </p>
 
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}&theme={dark}">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}&theme={tokyonight}">
 </div>
