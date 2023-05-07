@@ -13,8 +13,9 @@
 
 
 
-
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+!+I+am+Mustak;I+am+a+Music+Producer;I'm+also+interested+in+front-end+dev;I+enjoy+3D+modelling+as+well" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+!+I+am+Mustak;I+am+a+Music+Producer;I'm+also+interested+in+front-end+dev;I+enjoy+3D+modelling+as+well" alt="Typing SVG" /></a>
+</div>
 
 <!-- Music is ♡
 <p >
