@@ -7,7 +7,7 @@
     <p><a href="https://www.linkedin.com/in/mustbemustak/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Markdown Logo"></a> 
 <a href="https://soundcloud.com/sky9nine"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&amp;logo=soundcloud&amp;logoColor=white" alt="Markdown Logo"></a></p>
 </div> -->
-<div class=cat>
+<div class=cat align="center">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e437e66220511.5b0eb39f5a3f4.gif" width="300px">
 </div>
 
