@@ -8,13 +8,10 @@
 <a href="https://soundcloud.com/sky9nine"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&amp;logo=soundcloud&amp;logoColor=white" alt="Markdown Logo"></a></p>
 </div> -->
 <div class=cat>
-    <img src="[https://thumbs.gfycat.com/FearfulThickHarborseal-max-1mb.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e437e66220511.5b0eb39f5a3f4.gif)">
+    <img src="[https://thumbs.gfycat.com/FearfulThickHarborseal-max-1mb.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e437e66220511.5b0eb39f5a3f4.gif">
 </div>
 
-###### Stats Check
-<div>
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}&theme=tokyonight](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e437e66220511.5b0eb39f5a3f4.gif)">
-</div>
+
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+!+I+am+Mustak;I+am+a+Music+Producer;I'm+also+interested+in+front-end+dev;I+enjoy+3D+modelling+as+well" alt="Typing SVG" /></a>
