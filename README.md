@@ -13,7 +13,7 @@
 
 ###### Stats Check
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}&theme=tokyonight">
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user={Mus1ak}&theme=tokyonight](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e437e66220511.5b0eb39f5a3f4.gif)">
 </div>
 
 
