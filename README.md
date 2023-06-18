@@ -8,7 +8,7 @@
 <a href="https://soundcloud.com/sky9nine"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&amp;logo=soundcloud&amp;logoColor=white" alt="Markdown Logo"></a></p>
 </div> -->
 <div class=cat align="center">
-    <img src="https://i.makeagif.com/media/8-29-2021/uV6vy4.gif" >
+    <img src="[https://i.makeagif.com/media/8-29-2021/uV6vy4.gif](https://i.pinimg.com/originals/7a/85/a2/7a85a2fbffc6d93167b954c78873b505.gif)" width="300px">
 </div>
 
 
