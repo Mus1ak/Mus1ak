@@ -8,7 +8,8 @@
 <a href="https://soundcloud.com/sky9nine"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&amp;logo=soundcloud&amp;logoColor=white" alt="Markdown Logo"></a></p>
 </div> -->
 <div class=cat align="center">
-    <img src="https://media.tenor.com/EU9d_zXhh9YAAAAj/pokemon-pikachu.gif" width="300px">
+    <img src="![image](https://github.com/Mus1ak/Mus1ak/assets/109837813/34583a9b-0a32-46cf-b3c4-8e92e7b973df)
+" width="300px">
 </div>
 
 
