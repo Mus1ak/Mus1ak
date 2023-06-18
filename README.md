@@ -8,15 +8,16 @@
 <a href="https://soundcloud.com/sky9nine"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&amp;logo=soundcloud&amp;logoColor=white" alt="Markdown Logo"></a></p>
 </div> -->
 <div class=cat align="center">
-    <img src="https://i.pinimg.com/originals/7a/85/a2/7a85a2fbffc6d93167b954c78873b505.gif" width="300px">
+    <img src="https://media.tenor.com/H6LW61ns8u0AAAAd/ronaldo-siu-ronaldo-siuuu.gif" width="300px">
 </div>
 
 
 
-<div align="center">
+
+<!--<div align="center">
 <a href="https://git.io/typing-svg" ><img src="![image](https://github.com/Mus1ak/Mus1ak/assets/109837813/4db43b4f-fe81-48fd-ac94-6336208ab3c8)
 " /></a>
-</div>
+</div> -->
 
 <!-- Music is ♡
 <p >
