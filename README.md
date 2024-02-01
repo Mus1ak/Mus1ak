@@ -8,7 +8,8 @@
 <a href="https://soundcloud.com/sky9nine"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&amp;logo=soundcloud&amp;logoColor=white" alt="Markdown Logo"></a></p>
 </div> -->
 <div class=cat align="center">
-    <img src="https://media.tenor.com/H6LW61ns8u0AAAAd/ronaldo-siu-ronaldo-siuuu.gif" width="300px">
+<!--     <img src="https://media.tenor.com/H6LW61ns8u0AAAAd/ronaldo-siu-ronaldo-siuuu.gif" width="300px"> -->
+    <img src="https://i.pinimg.com/originals/64/58/93/64589393f442800e19ce191dec791f3c.gif" width="300px">
 </div>
 
 
