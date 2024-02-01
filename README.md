@@ -9,7 +9,7 @@
 </div> -->
 <div class=cat align="center">
 <!--     <img src="https://media.tenor.com/H6LW61ns8u0AAAAd/ronaldo-siu-ronaldo-siuuu.gif" width="300px"> -->
-    <img src="https://i.pinimg.com/originals/64/58/93/64589393f442800e19ce191dec791f3c.gif" width="300px">
+    <img src="https://i.pinimg.com/originals/64/58/93/64589393f442800e19ce191dec791f3c.gif">
 </div>
 
 
