@@ -12,7 +12,7 @@
     <img src="https://i.pinimg.com/originals/1b/60/4b/1b604bae3287cf55501e030deb82776a.gif" width="500px">
 </div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mus1ak)](https://git.io/streak-stats)
 
 
 <!--<div align="center">
